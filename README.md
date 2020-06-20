@@ -1,0 +1,2 @@
+# caokai.github.io
+hexo
